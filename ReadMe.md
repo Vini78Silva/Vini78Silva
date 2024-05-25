@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante da ETEC cursando Ensino Médio c/ Desenvolvimento de sistemas <br>👯 Sempre disposto a aprender novas tecnologias.<br>
+🔭 Sou estudante da ETEC cursando Ensino Médio c/ Desenvolvimento de sistemas <br> 👨‍💻Sempre disposto a aprender novas tecnologias.<br>
 
 
 
